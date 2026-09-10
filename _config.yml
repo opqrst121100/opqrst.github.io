@@ -1,6 +1,6 @@
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "assets/images/profile.png"
   name             : "Li Qingrong"
   pronouns         : # example: "she/her"
   bio              : "Data Science and Big Data Technology, Fuzhou University"
